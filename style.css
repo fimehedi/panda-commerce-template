@@ -1,0 +1,92 @@
+/*========== Typograpy ==========*/
+.container{
+    margin-bottom: 100px;
+}
+button{
+    font-weight: 700;
+}
+a:hover{
+    text-decoration: none;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+button:focus{
+    border: none !important;
+}
+input:focus{
+    border-color: black !important;
+    box-shadow: none !important;
+}
+/*==============================*/
+/*========== Navbar Area ==========*/
+.carousel-bg{
+    background-color: #ffe9e9;
+    border-radius: 5px;
+}
+/*==============================*/
+/*========== Slide Area ==========*/
+.carousel-item{
+    padding: 20px 40px;
+}
+.price-color{
+    color: #ff006c;
+}
+.buy-btn{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+/*==============================*/
+/*========== Categories Area ==========*/
+.categories img{
+    width: 100px;
+}
+.categorie-1, .categorie-2, .categorie-3{
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.categorie-1{
+    background-color: #53c8ca;
+}
+.categorie-2{
+    background-color: #eb2ed9;
+}
+.categorie-3{
+    background-color: #5e00ff;
+}
+/*==============================*/
+/*========== Shoes Area ==========*/
+
+/*==============================*/
+/*========== Backpack Area ==========*/
+
+/*==============================*/
+/*========== Subscribe Area ==========*/
+#subscribe{
+    background-color: #ffe7e9;
+    height: 300px;
+    border-radius: 5px;
+}
+#subscribe h6{
+    color: gray;
+}
+/*==============================*/
+/*========== Footer Area ==========*/
+footer{
+    text-align: center;
+    color: gray;
+}
+/*==============================*/
+
+
+
+
+
+
+
